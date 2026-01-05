@@ -1,0 +1,23 @@
+# Core dependencies for Logistic Regression Interpretability Analysis
+# Install all with: pip install -r requirements.txt
+
+# Data manipulation and analysis
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Machine learning
+scikit-learn>=1.0.0
+
+# Visualization
+matplotlib>=3.4.0
+
+# Excel file support
+openpyxl>=3.0.0
+
+# Optional: Interactive plot tooltips
+# Uncomment the line below to enable hover tooltips on plots
+# mplcursors>=0.5.0
+
+# Jupyter notebook support (if not already installed)
+# jupyter>=1.0.0
+# jupyterlab>=3.0.0
